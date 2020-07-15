@@ -1,0 +1,14 @@
+/Users/apla/Desenvolvimento/entrevistas/cotacaomoeda/src/main/java/br/com/projeto/cotacaomoeda/util/DateUtils.java
+/Users/apla/Desenvolvimento/entrevistas/cotacaomoeda/src/main/java/br/com/projeto/cotacaomoeda/entity/Moeda.java
+/Users/apla/Desenvolvimento/entrevistas/cotacaomoeda/src/main/java/br/com/projeto/cotacaomoeda/util/SpringBeanUtil.java
+/Users/apla/Desenvolvimento/entrevistas/cotacaomoeda/src/main/java/br/com/projeto/cotacaomoeda/rest/controller/MoedaController.java
+/Users/apla/Desenvolvimento/entrevistas/cotacaomoeda/src/main/java/br/com/projeto/cotacaomoeda/util/FormatterUtils.java
+/Users/apla/Desenvolvimento/entrevistas/cotacaomoeda/src/main/java/br/com/projeto/cotacaomoeda/CotacaoMoedaApplication.java
+/Users/apla/Desenvolvimento/entrevistas/cotacaomoeda/src/main/java/br/com/projeto/cotacaomoeda/util/SlackAppender.java
+/Users/apla/Desenvolvimento/entrevistas/cotacaomoeda/src/main/java/br/com/projeto/cotacaomoeda/util/LogSoapRequest.java
+/Users/apla/Desenvolvimento/entrevistas/cotacaomoeda/src/main/java/br/com/projeto/cotacaomoeda/exception/BusinessException.java
+/Users/apla/Desenvolvimento/entrevistas/cotacaomoeda/src/main/java/br/com/projeto/cotacaomoeda/service/MoedaService.java
+/Users/apla/Desenvolvimento/entrevistas/cotacaomoeda/src/main/java/br/com/projeto/cotacaomoeda/repository/MoedaRepository.java
+/Users/apla/Desenvolvimento/entrevistas/cotacaomoeda/src/main/java/br/com/projeto/cotacaomoeda/util/Pair.java
+/Users/apla/Desenvolvimento/entrevistas/cotacaomoeda/src/main/java/br/com/projeto/cotacaomoeda/rest/RestExceptionHandler.java
+/Users/apla/Desenvolvimento/entrevistas/cotacaomoeda/src/main/java/br/com/projeto/cotacaomoeda/util/ProjetoUtils.java
